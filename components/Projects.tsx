@@ -309,31 +309,6 @@ const projects = [
   },
   {
     id: 3,
-    title: "Aryan Soft Ltd",
-    description:
-      "A modern company website for Aryan Soft Ltd showcasing their enterprise business systems and AI-powered solutions. The platform highlights their expertise in building fast, secure, and scalable ERP and CRM systems with AI integration for streamlined business operations including onboarding, billing, follow-ups, and reporting.",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aryan-soft.PNG-YmHI3byaPdece9zayl965XlY9Dcgvz.png",
-    technologies: [
-      "Tailwind CSS",
-      "Framer Motion",
-      "Lucide React",
-      "TypeScript",
-      "React.js",
-      "Next.js",
-    ],
-    liveUrl: "https://aryansoftbd.com",
-    features: [
-      "Optimized static site generation for lightning-fast performance",
-      "SEO-friendly with meta tags, structured data, and sitemap",
-      "Responsive design with mobile-first approach",
-      "Smooth animations and transitions with Framer Motion",
-      "Accessible UI components with WCAG compliance",
-      "Analytics integration for visitor insights",
-      "Fast image optimization and lazy loading",
-    ],
-  },
-  {
-    id: 4,
     title: "Video Calling App",
     description:
       "A modern video calling application built with Clerk authentication and Stream for real-time video functionality. Features comprehensive video calling capabilities including meeting scheduling, recordings, and personal rooms without chat functionality.",
@@ -350,7 +325,7 @@ const projects = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     title: "Whiteboard App",
     description:
       "A collaborative whiteboard application similar to Canva and Figma, featuring real-time collaboration, drawing tools, and design capabilities for creative professionals and teams.",

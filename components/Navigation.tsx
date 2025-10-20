@@ -189,7 +189,7 @@ export default function Navigation() {
   }, [])
 
   const downloadCV = () => {
-    window.open("https://drive.google.com/file/d/1hkkdgU928oTbzCpz7721B70FDfA5XXyO/view?usp=sharing", "_blank")
+    window.open("https://drive.google.com/file/d/1SqvdoXT2FpyU008bxe5ML1caJyT9jDmy/view?usp=sharing", "_blank")
   }
 
   const scrollToSection = (href: string) => {
